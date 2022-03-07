@@ -1,8 +1,6 @@
 # College-Notes-Gallery
 ## A notes management system which helps users to upload,download and manage notes of their particular course. The whole system is coded in core PHP and MySqli
 
-
-
 College-Notes-Gallery ->
 
 ![home](https://user-images.githubusercontent.com/16975766/28489136-9c9930a0-6ed8-11e7-85a0-af4d73f63cd7.png)
